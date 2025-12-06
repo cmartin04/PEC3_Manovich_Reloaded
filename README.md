@@ -101,10 +101,12 @@ Tanto Open Brush como Runway muestran que la hibridación actual no consiste en 
 
 ## Uso de inteligencia artificial
 Para la elaboración de esta PEC se ha utilizado IA de forma limitada para:  
+
 1) proponer posibles casos contemporáneos de hibridación,  
 2) revisar redacción y coherencia del texto,  
-3) apoyar la documentación con recursos y referencias.  
-El análisis, la selección final de casos y las conclusiones son aportación personal del autor/a.
+3) apoyar la documentación con recursos y referencias.
+ 
+El análisis, la selección final de casos y las conclusiones son aportación personal del autor.
 
 ---
 
