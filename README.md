@@ -63,6 +63,8 @@ Open Brush constituye un caso de hibridación moderna porque no suma disciplinas
 ---
 <img width="400" height="280" alt="RUNWAY" src="https://github.com/user-attachments/assets/12f454c3-0717-4c29-8e07-80e042f562e3" />
 
+*Runway logo. Fuente: Runway (2025).*
+
 ## Caso 2 — Runway (IA para vídeo)
 ### Descripción del caso
 Runway es una plataforma de creación y edición audiovisual basada en inteligencia artificial. Permite generar vídeo a partir de texto o imagen, extender secuencias, controlar estilo y combinar resultados en flujos de edición similares a los de la postproducción tradicional.
