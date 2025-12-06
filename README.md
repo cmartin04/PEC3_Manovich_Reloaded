@@ -27,9 +27,9 @@ Manovich define los nuevos medios a partir de cinco principios: **representació
 La remediación explica cómo un medio incorpora y reinterpreta a otros para emularlos o superarlos (Bolter & Grusin, 1999). En el marco de Manovich, esta incorporación ocurre mediante técnicas de software que permiten una **remezclabilidad profunda**: no se trata solo de juntar medios, sino de fusionar sus lenguajes y operaciones a nivel computacional, dando lugar a formas híbridas nuevas (Manovich, 2013).
 
 ---
-**Demo Runway**
-- Vídeo oficial Gen-4.5: https://www.youtube.com/watch?v=ei2PsDpPbB4
-- Página oficial con ejemplos: https://runwayml.com/research/introducing-runway-gen-4.5
+![OPEN BRUSH](https://github.com/user-attachments/assets/9ed41381-e3b6-4980-a361-caf5deb86510)
+
+*Ejemplo de pintura 3D en Open Brush. Fuente: Icosa Foundation (2025).*
 
 ## Caso 1 — Open Brush (realidad virtual)
 ### Descripción del caso
