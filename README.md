@@ -52,6 +52,11 @@ El paso a lógica software transforma el significado cultural de pintar: la obra
 ### Conclusión del caso
 Open Brush constituye un caso de hibridación moderna porque no suma disciplinas como collage, sino que **fusiona pintura, escultura, animación e interacción corporal dentro de un único metamedio VR gobernado por software**.
 
+**Demo Open Brush**
+- Vídeo de presentación y uso básico: https://www.youtube.com/watch?v=XxpMIBtClWY
+- Canal oficial con showcases: https://www.youtube.com/@openbrushapp
+
+
 ---
 
 ## Caso 2 — Runway (IA para vídeo)
@@ -77,6 +82,11 @@ La autoría audiovisual se reconfigura: el creador ya no solo filma y edita, sin
 
 ### Conclusión del caso
 Runway es hibridación contemporánea porque **mezcla en profundidad el lenguaje del cine con la lógica de la IA generativa**, creando un nuevo tipo de audiovisual variable, automatizado y remezclable.
+
+**Demo Runway**
+- Vídeo oficial Gen-4.5: https://www.youtube.com/watch?v=ei2PsDpPbB4
+- Página oficial con ejemplos: https://runwayml.com/research/introducing-runway-gen-4.5
+
 
 ---
 
