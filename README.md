@@ -29,6 +29,8 @@ Manovich explica que, tras una primera etapa en la que el ordenador remedia medi
 
 La remediación (Bolter & Grusin, 1999) queda así como el punto de partida histórico del metamedio ordenador, pero el foco del análisis es observar cómo los híbridos contemporáneos combinan medios ya digitalizados para producir lenguajes nuevos.
 
+Manovich subraya que estos híbridos aparecen cuando el software permite combinar en profundidad operaciones antes separadas, produciendo una **remezcla profunda** que genera medios cualitativamente nuevos, no simples yuxtaposiciones (Manovich, 2013, cap. 3).
+
 
 ---
 ![OPEN BRUSH](https://github.com/user-attachments/assets/9ed41381-e3b6-4980-a361-caf5deb86510)
@@ -41,7 +43,7 @@ Open Brush es una aplicación de creación artística en realidad virtual, hered
 
 ### Análisis con “las gafas de Manovich”
 **Hibridación / remezcla profunda.**  
-Open Brush es un caso de hibridación porque integra, en un único entorno de realidad virtual, **técnicas y lenguajes que antes pertenecían a medios distintos**: incorpora operaciones propias de la pintura y el dibujo (gesto, pincel, color), de la escultura (volumen, recorrido alrededor de la obra) y de los entornos 3D/VR (espacio inmersivo navegable, herramientas paramétricas). Estas técnicas no coexisten como capas separadas, sino que quedan **reprogramadas y fusionadas por software**, generando un medio nuevo que ya no es solo “pintar” ni solo “modelar”, sino crear imágenes-objeto habitables.
+Open Brush es un caso de hibridación porque integra, en un único entorno de realidad virtual, **técnicas y lenguajes que antes pertenecían a medios distintos**: incorpora operaciones propias de la pintura y el dibujo (gesto, pincel, color), de la escultura (volumen, recorrido alrededor de la obra) y de los entornos 3D/VR (espacio inmersivo navegable, herramientas paramétricas). Estas técnicas no coexisten como capas separadas, sino que quedan **reprogramadas y fusionadas por software**, generando un medio nuevo que ya no es solo “pintar” ni solo “modelar”, sino crear imágenes-objeto habitables. Por ello, no es un caso de multimedia (capas separadas), sino de **remezcla profunda**, ya que las operaciones de pintar, esculpir y recorrer se funden en un mismo lenguaje VR.
 
 **Principios de nuevos medios.**  
 - *Representación numérica:* las pinceladas pasan a ser datos tridimensionales manipulables.  
@@ -78,7 +80,8 @@ Runway es una plataforma de creación y edición audiovisual basada en inteligen
 
 ### Análisis con “las gafas de Manovich”
 **Hibridación / remezcla profunda.**  
-Runway constituye una hibridación contemporánea porque fusiona en profundidad **dos tradiciones mediáticas distintas**: por un lado, el lenguaje del cine y la edición audiovisual (planos, montaje, continuidad, composición por capas); por otro, las operaciones del software generativo con IA (prompts, modelos que sintetizan movimiento, estilo y escenas a partir de datos). En Runway no se trata de usar IA como “efecto añadido”, sino de integrar la generación dentro del flujo de montaje, creando un medio híbrido donde **producir y editar ocurren como una misma operación software**.
+Runway constituye una hibridación contemporánea porque fusiona en profundidad **dos tradiciones mediáticas distintas**: por un lado, el lenguaje del cine y la edición audiovisual (planos, montaje, continuidad, composición por capas); por otro, las operaciones del software generativo con IA (prompts, modelos que sintetizan movimiento, estilo y escenas a partir de datos). En Runway no se trata de usar IA como “efecto añadido”, sino de integrar la generación dentro del flujo de montaje, creando un medio híbrido donde **producir y editar ocurren como una misma operación software.**. Así, Runway no suma generación y edición como módulos independientes, sino que las integra en un único flujo, ejemplificando la **remezcla profunda** descrita por Manovich.
+ 
 
 **Principios de nuevos medios.**  
 - *Representación numérica:* la imagen en movimiento es información generable y transformable.  
@@ -109,7 +112,8 @@ Runway es hibridación contemporánea porque **mezcla en profundidad el lenguaje
 ## Conclusiones generales
 Tanto Open Brush como Runway muestran que la hibridación actual no consiste en sumar medios, sino en **fusionar técnicas culturales a través de operaciones de software**. En Open Brush, las artes plásticas se transcodifican en experiencia espacial inmersiva; en Runway, el cine se reprograma como flujo generativo-editorial. Ambos casos confirman la vigencia del enfoque de Manovich para entender cómo el software sigue tomando el mando en los medios emergentes.
 
-En ambos casos, la hibridación no se limita a sumar medios, sino que crea prácticas y lenguajes nuevos que pueden entenderse como “nuevas especies de medios” dentro del metamedio ordenador (Manovich, 2013).
+En ambos casos, la hibridación no se limita a sumar medios, sino que crea prácticas y lenguajes nuevos que pueden entenderse como “nuevas especies de medios” dentro del metamedio ordenador (Manovich, 2013). Open Brush hibrida sobre todo en la **navegación corporal** de la representación (interfaz VR inmersiva), mientras que Runway lo hace en la **producción/transformación algorítmica** de la representación audiovisual, pero ambos convergen en un mismo rasgo: el software crea medios nuevos al fusionar operaciones culturales previas.
+
 
 ---
 
@@ -127,5 +131,6 @@ El análisis, la selección final de casos y las conclusiones son aportación pe
 ## Bibliografía
 - Bolter, J. D., & Grusin, R. (1999). *Remediation: Understanding New Media*. MIT Press.  
 - Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.  
-- Runway. (2025, 1 diciembre). Introducing Runway Gen-4.5: A new frontier for video generation. https://runwayml.com/research/introducing-runway-gen-4.5
-- Icosa Foundation. (2025). Open Brush Documentation. Open Brush Docs. https://docs.openbrush.app/
+- Runway. (2025, 1 diciembre). *Introducing Runway Gen-4.5: A new frontier for video generation*. Runway Research. https://runwayml.com/research/introducing-runway-gen-4.5
+- Icosa Foundation. (2025). *Open Brush Documentation*. Open Brush Docs. https://docs.openbrush.app/
+
